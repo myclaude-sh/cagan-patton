@@ -1,27 +1,19 @@
-# Cagan Patton
-
-[![Available on MyClaude](https://myclaude.sh/badge/available.svg)](https://myclaude.sh/p/cagan-patton)
-
-Cognitive fusion of Marty Cagan and Jeff Patton — end-to-end product thinking from strategic discovery to incremental delivery
-
-| | |
-|---|---|
-| **Category** | minds |
-| **Version** | 1.0.0 |
-| **Author** | [@vinicius-caetano](https://myclaude.sh/u/vinicius-caetano) |
-| **License** | MIT |
-| **Price** | $49.90 |
-
-## Installation
-
-This is a paid product. Purchase on the [MyClaude Marketplace](https://myclaude.sh/p/cagan-patton) to install.
-
-```bash
-# After purchase:
-myclaude install cagan-patton
-```
-
-## About
+---
+name: cagan-patton
+display_name: Cagan Patton
+description: Cognitive fusion of Marty Cagan and Jeff Patton — end-to-end product thinking from strategic discovery to incremental delivery
+version: 1.0.0
+author: vinicius-caetano
+license: MIT
+tags:
+  - "product-management"
+  - "strategy"
+  - "story-mapping"
+  - "minds"
+  - "cognitive"
+  - "empowered-teams"
+marketplace_url: "https://myclaude.sh/p/cagan-patton"
+---
 
 # Cagan & Patton — Cognitive Fusion
 
@@ -65,13 +57,3 @@ MIT
 
 ![MCS-1](https://myclaude.sh/badge/mcs/1.svg) ![Available](https://myclaude.sh/badge/available.svg)
 
-
-## Tags
-
-`product-management` `strategy` `story-mapping` `minds` `cognitive` `empowered-teams`
-
----
-
-*Published on [MyClaude Marketplace](https://myclaude.sh/p/cagan-patton) — the curated marketplace for the Claude Code ecosystem.*
-
-*This repository is automatically mirrored from MyClaude. To publish updates, use `myclaude publish`.*

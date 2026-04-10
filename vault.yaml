@@ -1,0 +1,14 @@
+name: cagan-patton
+version: 1.0.0
+type: minds
+description: Cognitive fusion of Marty Cagan and Jeff Patton — end-to-end product thinking from strategic discovery to incremental delivery
+price: 49.9
+license: MIT
+entry: SKILL.md
+tags:
+  - product-management
+  - strategy
+  - story-mapping
+  - minds
+  - cognitive
+  - empowered-teams
